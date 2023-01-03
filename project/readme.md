@@ -1,1 +1,1 @@
-## Report format of software engineering project
+## Report template of software engineering project
